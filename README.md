@@ -10,6 +10,7 @@ Compositor: Picom-ibhagwan fork
 
 Widget: Conky > Clock and CPU/RAM monitor
 
-# Screenshot
+# Screenshots
 
 ![Screenshot](one.png)
+![Screenshot](three.png)
