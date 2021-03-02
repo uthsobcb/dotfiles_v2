@@ -10,6 +10,8 @@ Compositor: Picom-ibhagwan fork
 
 Widget: Conky > Clock and CPU/RAM monitor
 
+Theme: IT'S BASED ON QOGIR-DARK
+
 # Screenshots
 
 ![Screenshot](one.png)
