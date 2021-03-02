@@ -12,4 +12,4 @@ Widget: Conky > Clock and CPU/RAM monitor
 
 # Screenshot
 
-![Screenshot](one.jpg)
+![Screenshot](one.png)
