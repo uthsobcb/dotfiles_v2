@@ -12,4 +12,4 @@ Widget: Conky > Clock and CPU/RAM monitor
 
 # Screenshot
 
-[Let me figure out how to add screenshots to .readme lol]
+![Screenshot](one.jpg)
